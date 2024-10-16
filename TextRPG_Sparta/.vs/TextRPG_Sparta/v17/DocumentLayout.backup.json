@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#Basic\\TextRPG_Sparta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{488AF617-F812-410F-83EB-913DC4B82777}|TextRPG_Sparta\\TextRPG_Sparta.csproj|d:\\c#basic\\textrpg_sparta\\textrpg_sparta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{488AF617-F812-410F-83EB-913DC4B82777}|TextRPG_Sparta\\TextRPG_Sparta.csproj|solutionrelative:textrpg_sparta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#Basic\\TextRPG_Sparta\\TextRPG_Sparta\\Program.cs",
+              "RelativeDocumentMoniker": "TextRPG_Sparta\\Program.cs",
+              "ToolTip": "D:\\C#Basic\\TextRPG_Sparta\\TextRPG_Sparta\\Program.cs",
+              "RelativeToolTip": "TextRPG_Sparta\\Program.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAuwM0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T08:28:41.976Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

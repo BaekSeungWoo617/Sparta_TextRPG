@@ -1,0 +1,14 @@
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\bin\Debug\net8.0\TextRPG_Sparta.exe
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\bin\Debug\net8.0\TextRPG_Sparta.deps.json
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\bin\Debug\net8.0\TextRPG_Sparta.runtimeconfig.json
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\bin\Debug\net8.0\TextRPG_Sparta.dll
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\bin\Debug\net8.0\TextRPG_Sparta.pdb
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.AssemblyInfoInputs.cache
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.AssemblyInfo.cs
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.csproj.CoreCompileInputs.cache
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.dll
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\refint\TextRPG_Sparta.dll
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.pdb
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\TextRPG_Sparta.genruntimeconfig.cache
+D:\C#Basic\TextRPG_Sparta\TextRPG_Sparta\obj\Debug\net8.0\ref\TextRPG_Sparta.dll
